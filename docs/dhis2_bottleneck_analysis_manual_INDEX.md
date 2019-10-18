@@ -1,11 +1,11 @@
 ---
 title: 'DHIS 2 manual for the Bottleneck Analysis App'
 author: 'BNA App team'
-date: <git-date>
+date: 
 year: 2019
 month: October
 keywords: [DHIS2, HISP]
-commit: <git-hash>
+commit:
 version: 1.0.0-rc.0
 applicable_txt: 'Applicable to version 1.0.0-rc1'
 logo: content/resources/images/image17.png
