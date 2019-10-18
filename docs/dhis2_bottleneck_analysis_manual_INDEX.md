@@ -12,6 +12,8 @@ logo: resources/images/image17.png
 ---
 <!--DHIS2-SECTION-ID:index-->
 
+!INCLUDE "../common/about-this-guide.md"
+
 # Introduction and Usage
 
 !INCLUDE "content/bottleneck-analysis-dashboard-and-demo-server.md", 1
