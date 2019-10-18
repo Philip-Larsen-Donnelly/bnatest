@@ -8,7 +8,7 @@ keywords: [DHIS2, HISP]
 commit:
 version: 1.0.0-rc.0
 applicable_txt: 'Applicable to version 1.0.0-rc1'
-logo: resources/images/content/image17.png
+logo: resources/images/image17.png
 ---
 <!--DHIS2-SECTION-ID:index-->
 
